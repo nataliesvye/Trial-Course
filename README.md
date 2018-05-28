@@ -12,5 +12,5 @@ This repository is a template for a single-page website that you can maintain di
 1. Clone this repository to your own GitHub account.
 2. Go to the cloned repository (in your GitHub account).
 3. Under "Settings": Change the name of the repository as suits your purposes.
-4. Also under "Settings": in the gh-pages section, arrange for the repository to be served as the `master branch /docs directory`
-# Single-page-website
+4. Also under "Settings": in the "GitHub pages" section, arrange for the repository to be served as the `master branch /docs directory`
+
