@@ -1,4 +1,4 @@
-## Stat 104 Fall 2018 
+## Stats Trial Fall 2018 
 
 <!-- Want a banner image? Find the image you want and store it in the images directory with the name `banner.jpg`. (Or you can modify the file name in the next line, with any image URL you want. -->
 
@@ -7,16 +7,16 @@
 
 ## Welcome
 
-- My name is ...
-- Office Hours:
-- Textbook:
+- My name is Natalie Svyeshnikova
+- Office Hours: TBA
+- Textbook: TBA
 
 
 ## Daily schedule: Fall 2018
 
 ### Friday Sept 7
 
-* Topic: Welcome to Stats 101
+* Topic: Welcome to Stats 1342
 * Lesson: [What is stats?](https://dtkaplan.shinyapps.io/Lesson_first_day_births/)
 * Reading: Textbook Chap 1, pp. 14-19
 
